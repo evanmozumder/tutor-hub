@@ -7,7 +7,7 @@ const Header = () => {
       {/* site related info  */}
       <h1>Tutors Hub</h1>
       <h3>Collection of Qualified, Experienced Teacher</h3>
-      <h1>Total Budget: 100 Million</h1>
+      <h1>Total Budget: $10000</h1>
     </div>
   );
 };
