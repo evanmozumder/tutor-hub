@@ -1,0 +1,9 @@
+.added-tutors {
+  position: sticky;
+  top: 0;
+  text-align: center;
+  /* border: 2px solid green */
+}
+.added-tutor-name {
+  color: brown;
+}
